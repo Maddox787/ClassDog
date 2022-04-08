@@ -1,4 +1,4 @@
-ClassPerson: 
+class Person: 
 
 def __innit__(self._skincolor,_height,_eyecolor,_voice,_gend-er,_name)
   self.skincolor = _tan   
